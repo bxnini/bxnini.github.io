@@ -1,5 +1,5 @@
-import SocialNetworkContainer from "../components/SocialNetworks";
-import InformationContainer from "../components/InformationContainer";
+import SocialNetworkContainer from "./SocialNetworks";
+import InformationContainer from "./InformationContainer";
 import Avatar from "../img/literalmente_eu.jpg";
 import MeuArquivoPDF from "../components/CV.pdf";
 import "../styles/components/sidebar.sass";
